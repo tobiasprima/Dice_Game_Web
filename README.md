@@ -1,3 +1,3 @@
 # Dice_Game_Web
 
-A Dice Game!!!
+A Simple Dice Game  !!!
